@@ -2,6 +2,13 @@
 <h3 align="center">I am a junior Full-stack Developer</h3>
 
 - 🔭 I’m currently working on **"interaksi antar browser"** https://oliveincomparableparallelprocessing.nucaa.repl.co/
+  cara penggunaan:
+  1. klik link tersebut
+  2. buka browser anda dan pastekan link tersebut
+  3. setelah itu buka atau tambah tab baru lagi
+  4. dan paste kembali link tersebut
+  5. lalu buat kedua browser tersebut menjadi dua layar
+  6. dan lihatlah interaksi yang terjadi diantara keduanya :)
 
 - 🌱 education **I study information technology**
 
