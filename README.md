@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moh Hafiz Naufal</h1>
-<h3 align="center">I am a junior Full-stack Developer</h3>
+<h3 align="center">I am a junior Back-End Developer</h3>
 
 - 🔭 I’m currently working on **"interaksi antar browser"** https://oliveincomparableparallelprocessing.nucaa.repl.co/
   cara penggunaan:
