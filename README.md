@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mooafitl</h1>
+<h1 align="center">Hi 👋, I'm Mooafit</h1>
 <h3 align="center">I am a junior Back-End Developer</h3>
 
 - 🔭 I’m currently working on **guess gender** https://abd836df-5ceb-4e76-8504-3574d818c02b-00-d0hjq6bxdva3.janeway.replit.dev/
@@ -14,7 +14,7 @@
 
 - 🌱 education **I study information technology**
 
-- ⚡ Fun fact **likes to find new things**
+- ⚡ quates **You have javascript You have power**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
