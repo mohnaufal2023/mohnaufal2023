@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **guess gender** https://abd836df-5ceb-4e76-8504-3574d818c02b-00-d0hjq6bxdva3.janeway.replit.dev/
 - 🔭 I’m currently working on  **Movie Ticket** https://70371734-368d-4abf-9749-bdabe6dc6272-00-3exbfmq4otue2.janeway.replit.dev/
-- 🔭 I’m currently working on **"interaksi antar browser"** https://oliveincomparableparallelprocessing.nucaa.repl.co/
+- 🔭 I’m currently working on **"interaksi antar browser"** https://2ef24240-ed37-49e3-bace-1595ff63c83c-00-32ukmyg8elzsp.kirk.replit.dev/
   cara penggunaan:
   1. klik link tersebut
   2. buka browser anda dan pastekan link tersebut
