@@ -5,13 +5,7 @@
 - 🔭 I’m currently working on  **Movie Ticket** https://70371734-368d-4abf-9749-bdabe6dc6272-00-3exbfmq4otue2.janeway.replit.dev/
 - 🔭 I’m currently working on **"UIUX app (e-canteen)"** https://www.figma.com/file/28lWY5q18CBGmhdqQmCAC3/menu-kantin?type=design&node-id=0%3A1&mode=design&t=2Nfp2PSabgqrvV2A-1
 -  🔭 I’m currently working on **"interaksi antar browser"** https://2ef24240-ed37-49e3-bace-1595ff63c83c-00-32ukmyg8elzsp.kirk.replit.dev/
-  cara penggunaan:
-  1. klik link tersebut
-  2. buka browser anda dan pastekan link tersebut
-  3. setelah itu buka atau tambah tab baru lagi
-  4. dan paste kembali link tersebut
-  5. lalu buat kedua browser tersebut menjadi dua layar
-  6. dan lihatlah interaksi yang terjadi diantara keduanya :)
+
 
 - 🌱 education **I study information technology**
 
