@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior Back-End Developer</h3>
 <h1>https://mohnaufal2023.github.io/</h1>
 
-- 🔭 I’m currently working on **guess gender** https://abd836df-5ceb-4e76-8504-3574d818c02b-00-d0hjq6bxdva3.janeway.replit.dev/
+- 🔭 I’m currently working on **guess gender**
 - 🔭 I’m currently working on  **Movie Ticket** https://70371734-368d-4abf-9749-bdabe6dc6272-00-3exbfmq4otue2.janeway.replit.dev/
 - 🔭 I’m currently working on **"UIUX app (e-canteen)"** https://www.figma.com/file/28lWY5q18CBGmhdqQmCAC3/menu-kantin?type=design&node-id=0%3A1&mode=design&t=2Nfp2PSabgqrvV2A-1
 -  🔭 I’m currently working on **"Browser interaction"** https://2ef24240-ed37-49e3-bace-1595ff63c83c-00-32ukmyg8elzsp.kirk.replit.dev/
