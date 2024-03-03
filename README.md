@@ -10,7 +10,7 @@
   
 - 📫 How to reach me **mh3604211@gmail.com**
 
-- 🔭 I’m currently working on [**my personal website**](mohnaufal.github.io)
+- 🔭 I’m currently working on [**my personal website**](https://mohnaufal2023.github.io/)
 
 - ⚡ quates **You have javascript You have power**
 
