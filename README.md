@@ -24,5 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github)](https://skillicons.dev)
 
+![snake gif](https://github.com/mohnaufal2023/mohnaufal2023/blob/output/github-contribution-grid-snake.svg)
+
 
 
