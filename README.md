@@ -1,4 +1,4 @@
-<h1 align="center">👋Yeeaahh, this is me with a new cooking style</h1>
+x<h1 align="center">👋Yeeaahh, this is me with a new cooking style</h1>
 <h1 align="center">Mooafit(Asian)</h1>
 <h1 align="center">moo (Global)</h1>
 <h3 align="center">I am a junior back end with a focus on software development using JavaScript and Node.js. I have experience in managing code using Git and GitHub. In addition, I also have expertise in UI/UX design, which helps me in creating attractive and easy-to-use interfaces for users.</h3>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,github,git,angular,figma,bootstrap,tailwind,typescript,nodejs,php,vercel,java,kotlin,golang,expressjs,go,astro,bun)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,github,git,angular,figma,bootstrap,tailwind,typescript,nodejs,php,vercel,java,kotlin,golang,expressjs,go,astro,bun,redux)](https://skillicons.dev)
 
 &nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=mohnaufal2023" alt="mohanaufal2023" />
 <br /><br />
