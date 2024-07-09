@@ -6,10 +6,6 @@
 <h3 align="center">I am a junior back end with a focus on software development using JavaScript and Node.js. I have experience in managing code using Git and GitHub. In addition, I also have expertise in UI/UX design, which helps me in creating attractive and easy-to-use interfaces for users.</h3>
 
 
-
-<p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
-
-
 - 🌱 I keep learning about the javascript ecosystem
 
 - 👨‍💻 I am currently studying in the information technology department
