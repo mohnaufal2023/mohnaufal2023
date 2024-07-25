@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,github,git,angular,figma,bootstrap,tailwind,typescript,nodejs,php,vercel,java,kotlin,golang,expressjs,go,bun,redux,netlify,vuejs,azure,css,html,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,github,git,angular,figma,bootstrap,tailwind,typescript,nodejs,php,vercel,java,kotlin,golang,expressjs,go,bun,redux,netlify,vuejs,azure,css,html)](https://skillicons.dev)
 
 &nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=mohnaufal2023" alt="mohanaufal2023" />
 <br /><br />
