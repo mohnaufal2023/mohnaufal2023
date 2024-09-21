@@ -1,6 +1,6 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-<h1 align="center">mooooafit (Asian)</h1>
+<h1 align="center">mooooafit </h1>
 
 
 <h3 align="center">I am a junior Fronr-End with a focus on software development using JavaScript and Node.js. I have experience in managing code using Git and GitHub. In addition, I also have expertise in UI/UX design, which helps me in creating attractive and easy-to-use interfaces for users.</h3>
