@@ -27,8 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,js,github,git,angular,figma,bootstrap,tailwind,typescript,nodejs,php,vercel,java,kotlin,golang,expressjs,go,bun,redux,netlify,vuejs,azure,css,html,kafka)](https://skillicons.dev)
 
-&nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=mohnaufal2023" alt="mohanaufal2023" />
-<br /><br />
+
 
 &nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA)](https://git.io/typing-svg)
 <hr />
